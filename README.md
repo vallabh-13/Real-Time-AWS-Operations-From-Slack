@@ -7,7 +7,7 @@ This Terraform-based project showcases cloud operations pipeline that integrates
 ---
 
 ## 🖼️ Diagram
- `Diagram/SlackOps-AWS-Automation.png`  
+![alt text](Diagram/SlackOps-AWS-Automation.png)
 
 ---
 
