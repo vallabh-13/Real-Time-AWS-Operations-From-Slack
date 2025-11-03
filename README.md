@@ -1,4 +1,4 @@
-##💬 Real-Time AWS Operations from Slack (Operational Excellence Pillar)
+# 💬 Real-Time AWS Operations from Slack (Operational Excellence Pillar)
 
 ## 📌 Project Overview
 
