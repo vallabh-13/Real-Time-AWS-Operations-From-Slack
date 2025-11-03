@@ -109,7 +109,7 @@ Fix: Ensure `ec2execution` has correct permissions and is assigned as user role
 Cause: A module call is missing a required variable (e.g., vpc_id, subnet_id) 
 Fix: Double-check your main.tf and ensure all required inputs are passed to each module.
 
---
+---
 
 ## 🧠 Notes
 
