@@ -1,0 +1,40 @@
+# Terraform state and backup files
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+*.tfvars
+terraform.tfvars.json
+override.tf
+override.tf.json
+
+# Sensitive files
+*.pem
+*.key
+*.env
+*.credentials
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# AWS CLI cache
+.aws/
+
+# Diagrams or generated assets
+Diagram/*.png
+Diagram/*.svg
+
+# SlackOps demo artifacts
+*.zip
+*.bak
